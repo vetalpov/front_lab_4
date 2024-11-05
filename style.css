@@ -1,0 +1,12 @@
+/* Основні стилі для сторінки */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.clicked-background {
+    background-color: #f0f0f0;
+}
+
+.clicked-text {
+    color: #ff5722;
+}
